@@ -1,0 +1,80 @@
+{
+  "serie": [
+    {
+      "id": 1,
+      "nome": "Anne With E ",
+      "temporadas": "2",
+      "classificaçao": " 12 "
+    },
+    {
+      "id": 2,
+      "nome": " Greys Anatomy ",
+      "temporadas": "19",
+      "classificaçao": " 14 "
+    },
+    {
+      "id": 3,
+      "nome": " ICarly ",
+      "temporadas": "7",
+      "classificaçao": " 10 "
+    },
+    {
+      "id": 4,
+      "nome": " Atypical ",
+      "temporadas": 4,
+      "classificaçao": " 14 "
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "nome": " Pantera Negra ",
+      "duraçao": "2h15 ",
+      "lançamento": " 2018 "
+    },
+    {
+      "id": 2,
+      "nome": " Invocaçao do Mal ",
+      "duraçao": "1h52 ",
+      "lançamento": " 2013 "
+    },
+    {
+      "id": 3,
+      "nome": " Olga ",
+      "duraçao": "2h21 ",
+      "lançamento": " 2004 "
+    },
+    {
+      "id": 4,
+      "nome": "Escritores da Liberdade ",
+      "duraçao": "2h03 ",
+      "lançamento": " 2007 "
+    }
+  ],
+  "Funcionarios": [
+    {
+      "id": 1,
+      "cargo": "Atendente",
+      "nome": " Ricardo ",
+      "idade": " 20 "
+    },
+    {
+      "id": 2,
+      "cargo": "Pipoqueiro",
+      "nome": " Carla ",
+      "idade": " 22"
+    },
+    {
+      "id": 3,
+      "cargo": "Segurança",
+      "nome": " Eduardo",
+      "idade": " 26"
+    },
+    {
+      "id": 4,
+      "cargo": "Serviços Gerais",
+      "nome": " Kleber ",
+      "idade": " 28 "
+    }
+  ]
+}
